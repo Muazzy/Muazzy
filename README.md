@@ -1,17 +1,18 @@
-<div align="center">
-    <img src="https://media.giphy.com/media/MdSd5OVojIyK8EjaqQ/giphy.gif" width="250" " alt="batmanlogo" />
-</div>
-                                                                                            
-<div align="center">  
-<p float="left">
-  <img src="https://media.giphy.com/media/sYuWEenQWoQ3zDaBJO/giphy.gif" width="100" /> 
-      <img src="https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&color=ecaa21&center=true&lines=Muazzam+Soomro;I'm+Vengeance" />
-  <img src="https://media.giphy.com/media/sYuWEenQWoQ3zDaBJO/giphy.gif" width="100" />
-</p>
+<div align="center">                                                               
+<img src="https://github.com/Muazzy/Muazzy/blob/Muazzy-editing/images%20and%20gifs/name_logo.png?raw=true" />
 </div>
 <br>
+<!-- <p>
+     <img src="https://github.com/Muazzy/Muazzy/blob/Muazzy-editing/images%20and%20gifs/left-tourch.gif?raw=true" width="30" style="float: left;"/> 
+    I'm a Bechlors student in the field of Software Engineering currently in 3rd year @MUET, Jamshoro and I love to Design & Develop Apps in Flutter.
+    <img src="https://github.com/Muazzy/Muazzy/blob/Muazzy-editing/images%20and%20gifs/right-tourch.gif?raw=true" width="30" style="float: right;"/> 
+</p> -->
+
+<img src="https://github.com/Muazzy/Muazzy/blob/Muazzy-editing/images%20and%20gifs/left-tourch.gif?raw=true" width="30" style="float: left;"/>  | I'm a Bechlors student in the field of Software Engineering currently in 3rd year @MUET, Jamshoro and I love to Design & Develop Apps in Flutter. | <img src="https://github.com/Muazzy/Muazzy/blob/Muazzy-editing/images%20and%20gifs/right-tourch.gif?raw=true" width="30" style="float: right;"/>
+--- | --- | ---
                                                                                                                                  
 # Connect with me: 
+
 <div align ="center">
 <p align="left">
 <a href="http://twitter.com/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" alt="" height="30" /></a>
