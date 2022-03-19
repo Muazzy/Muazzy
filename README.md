@@ -33,16 +33,18 @@
 <!-- languages etc -->
 <p>
 <img align="right" src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/chin_rotated.gif" width="30%" ></a> 
+<p align=left>
 <h1>Languages, Frameworks & Tools 🛠️</h1>
 <img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/dart.svg" alt="" height="30" />  
 <img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/java.png" alt="" height="50" />
-<img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/database.png" alt="" height="40" />
+<img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/database.png" alt="" height="40" /> 
 <img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/flutter.png" alt="" height="40" />
 <img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/html.png" alt="" height="40" />
-<img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/css-3.png" alt="" height="40" />
+<img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/css-3.png" alt="" height="40" /> 
 <img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/VisualScode.png" alt="" height="40" />
 <img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/Octocat.png" alt="" height="40" />
 <img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/linux.png" alt="" height="40" />
+</p>
 </p>
 
 <br>
