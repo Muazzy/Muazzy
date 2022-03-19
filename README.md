@@ -1,17 +1,22 @@
-<img align="left" width="200" height="200" src="https://github.com/Muazzy/Muazzy/blob/Muazzy-editing/images%20and%20gifs/left-tourch.gif"></a>
-<img align="right" width="200" height="200" src="https://github.com/Muazzy/Muazzy/blob/Muazzy-editing/images%20and%20gifs/right-tourch.gif"></a>
-<h1 align="center"Welcome to my Profile!</h1>
-
+<img align="left" width="63.4" height="96" src="https://github.com/Muazzy/Muazzy/blob/Muazzy-editing/images%20and%20gifs/batman_drink.gif"></a>
+<img align="right" width="63.4" height="96" src="https://github.com/Muazzy/Muazzy/blob/Muazzy-editing/images%20and%20gifs/batman_drink.gif"></a>
+<h1 align="center">Welcome to my profile</h1>
+<div align ="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=Muazzy&color=lightgrey" />
+</div>
+<br>
+<br>
+<br>
 
 <div align="center">                                                               
-<img src="https://github.com/Muazzy/Muazzy/blob/Muazzy-editing/images%20and%20gifs/name_logo_v2.png?raw=true" />
+<img align="center" src="https://github.com/Muazzy/Muazzy/blob/Muazzy-editing/images%20and%20gifs/name_logo_v2.png?raw=true" />
 </div>
 
 <br>
 
 <img align="left" width="200" height="200" src="https://github.com/Muazzy/Muazzy/blob/Muazzy-editing/images%20and%20gifs/left-tourch.gif"></a>
 <img align="right" width="200" height="200" src="https://github.com/Muazzy/Muazzy/blob/Muazzy-editing/images%20and%20gifs/right-tourch.gif"></a>
-<p align="center">I'm a 3rd year Bechlors student in the field of Software Engineering at MUET, Jamshoro. I'm Passionate about learning new things and love to Design & Develop Apps in Flutter. Currently honning my Flutter skills further more & also starting to learn full stack web development alongside with it.</p>
+<p align="center"> I'm a 3rd year Bechlors student in the field of Software Engineering at MUET, Jamshoro. I'm Passionate about learning new things and love to Design & Develop Apps in Flutter. Currently honning my Flutter skills further more & also starting to learn full stack web development alongside with it. </p>
 
 <br>
 <br>
