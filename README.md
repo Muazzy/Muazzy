@@ -35,8 +35,8 @@
 <img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/flutter.png" alt="" height="40" />
 <img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/html.png" alt="" height="40" />
 <img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/css-3.png" alt="" height="40" /><br><br>
-<img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/visualstudiocode.svg" alt="" height="40" />
-<img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/github.png" alt="" height="40" />
+<img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/VisualScode.png" alt="" height="40" />
+<img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/Octocat.png" alt="" height="40" />
 <img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/linux.png" alt="" height="40" />
 </p>
 </p>
