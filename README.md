@@ -1,3 +1,5 @@
+<!-- welcome -->
+
 <p align ="center">
 <img align="left" width="8%"  src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/batman_drink.gif"></a>
 <img align="right" width="8%"  src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/batman_drink.gif"></a>
@@ -10,11 +12,14 @@
 <br>
 <br>
 
+<!-- name -->
 <div align="center">                                                               
 <img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/name_logo_v2.png?raw=true" />
 </div>
 
 <br>
+
+<!-- about-me -->
 <p>
 <img align="left" width="20%" src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/left-tourch.gif"></a>
 <img align="right" width="20%" src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/right-tourch.gif"></a>
@@ -25,37 +30,48 @@
 <br>
 <hr>
 
+<!-- languages etc -->
 <p>
 <img align="right" src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/chin_rotated.gif?raw=true" width="30%" ></a> 
-<h1>🛠️ Languages, Frameworks & Tools</h1>
-<p align="left">   
-<img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/dart.svg" alt="" height="30" />  
-<img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/java.png" alt="" height="50" />
-<img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/database.png" alt="" height="40" /><br><br>
-<img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/flutter.png" alt="" height="40" />
-<img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/html.png" alt="" height="40" />
-<img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/css-3.png" alt="" height="40" /><br><br>
-<img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/VisualScode.png" alt="" height="40" />
-<img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/Octocat.png" alt="" height="40" />
-<img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/linux.png" alt="" height="40" />
+<h1>🛠️ Languages, Frameworks & Tools</h1>   
+<img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/dart.svg" alt="" height="30" />  
+<img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/java.png" alt="" height="50" />
+<img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/database.png" alt="" height="40" />
+<img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/flutter.png" alt="" height="40" />
+<img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/html.png" alt="" height="40" />
+<img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/css-3.png" alt="" height="40" />
+<img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/VisualScode.png" alt="" height="40" />
+<img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/Octocat.png" alt="" height="40" />
+<img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/linux.png" alt="" height="40" />
 </p>
-</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <hr>
-
+<!-- contact-me -->
 <p align ="center">
-<img align="right" src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/contactme.gif?raw=true" width="28%%" ></a>
+<img align="right" src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/cnME.gif" width="30%"></a>
 <h1 >🤝 Connect with me 🤝</h1>
-<p align="left">
-<a href="https://twitter.com/MuazzamSoomro" target="blank"><img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/twitter%20(2).png?raw=true" alt="" height="30" /></a> <br><br>    
-<a href="https://www.linkedin.com/in/muazzam-soomro-2484541a2/" target="blank"><img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/transparent-Linkedin-logo-icon.png?raw=true" alt="" height="30" /></a><br>  <br>  
-<a href="https://www.instagram.com/muazzam_afaque/" target="blank"><img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/instagram.png?raw=true" alt="" height="30" /></a>
+<a href="https://twitter.com/MuazzamSoomro" target="blank"><img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/twitter%20(2).png?raw=true" alt="" height="30" /></a>    
+<a href="https://www.linkedin.com/in/muazzam-soomro-2484541a2/" target="blank"><img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/transparent-Linkedin-logo-icon.png?raw=true" alt="" height="30" /></a>
+<a href="https://www.instagram.com/muazzam_afaque/" target="blank"><img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/instagram.png?raw=true" alt="" height="30" /></a>
 </p>
-</p>
+
+<!-- spacing -->
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <hr>
 
-
+<!-- stats -->
 <h1 align = "center">🦇 Stats 🦇</h1>
 <div align= "center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Muazzy&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&border=C9C6CE&background=2A1C3E&stroke=C5C1C7&ring=EA7FD9&fire=EA7FD9&currStreakNum=AE85FD&sideNums=EA7FD9&currStreakLabel=AE85FD&sideLabels=EA7FD9&dates=C9C6CE)](https://git.io/streak-stats)"></a> <br>
