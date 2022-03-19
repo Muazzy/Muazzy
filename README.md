@@ -27,7 +27,7 @@
 
 <p>
 <img align="right" src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/chin_rotated.gif?raw=true" width="30%" ></a> 
-<h1>🛠️ Languages, Frameworks & Tools 🛠️</h1>
+<h1>🛠️ Languages, Frameworks & Tools</h1>
 <p align="left">   
 <img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/dart.svg" alt="" height="30" />  
 <img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/java.png" alt="" height="50" />
