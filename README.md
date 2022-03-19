@@ -26,7 +26,7 @@
 <hr>
 
 <p>
-<img align="right" src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/chin_rotated.gif?raw=true" width="30%" height="50%"></a> 
+<img align="right" src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/chin_rotated.gif?raw=true" width="30%" ></a> 
 <h1>🛠️ Languages, Frameworks & Tools 🛠️</h1>
 <p align="left">   
 <img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/dart.svg" alt="" height="30" />  
@@ -44,7 +44,7 @@
 <hr>
 
 <p align ="center">
-<img align="right" src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/contactme.gif?raw=true" width="30%" height="40%"></a>
+<img align="right" src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/contactme.gif?raw=true" width="28%%" ></a>
 <h1 >🤝 Connect with me 🤝</h1>
 <p align="left">
 <a href="https://twitter.com/MuazzamSoomro" target="blank"><img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/icons/twitter%20(2).png?raw=true" alt="" height="30" /></a> <br><br>    
