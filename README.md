@@ -32,8 +32,8 @@
 
 <!-- languages etc -->
 <p>
-<h1>🛠️ Languages, Frameworks & Tools</h1>
 <img align="right" src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/chin_rotated.gif" width="30%" ></a> 
+<h1>Languages, Frameworks & Tools 🛠️</h1>
 <img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/dart.svg" alt="" height="30" />  
 <img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/java.png" alt="" height="50" />
 <img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/database.png" alt="" height="40" />
@@ -51,24 +51,20 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 <hr>
 <!-- contact-me -->
 <p align ="center">
-<h1 >🤝 Connect with me 🤝</h1>
+
 <img align="right" src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/cnME.gif" width="30%"></a>
-<a href="https://twitter.com/MuazzamSoomro" target="blank"><img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/twitter%20(2).png?raw=true" alt="" height="30" /></a>    
-<a href="https://www.linkedin.com/in/muazzam-soomro-2484541a2/" target="blank"><img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/transparent-Linkedin-logo-icon.png?raw=true" alt="" height="30" /></a>
-<a href="https://www.instagram.com/muazzam_afaque/" target="blank"><img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/instagram.png?raw=true" alt="" height="30" /></a>
+<h1>Connect with me 🖤</h1>
+<a href="https://twitter.com/MuazzamSoomro" target="blank"><img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/twitter%20(2).png?raw=true" alt="" height="50" /></a>    
+<a href="https://www.linkedin.com/in/muazzam-soomro-2484541a2/" target="blank"><img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/transparent-Linkedin-logo-icon.png?raw=true" alt="" height="50" /></a>
+<a href="https://www.instagram.com/muazzam_afaque/" target="blank"><img align="left" src="https://github.com/Muazzy/Muazzy/blob/main/icons/instagram.png?raw=true" alt="" height="50" /></a>
 </p>
 
 <!-- spacing -->
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
