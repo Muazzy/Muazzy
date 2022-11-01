@@ -78,7 +78,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Muazzy&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&border=C9C6CE&background=2A1C3E&stroke=C5C1C7&ring=EA7FD9&fire=EA7FD9&currStreakNum=AE85FD&sideNums=EA7FD9&currStreakLabel=AE85FD&sideLabels=EA7FD9&dates=C9C6CE)](https://git.io/streak-stats)"></a> <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Muazzy&show_icons=true&theme=jolly"></a>
 <img src="https://raw.githubusercontent.com/Muazzy/Muazzy/97d26929fa01612dda6332ad19be095b0fd31276/github-contribution-grid-snake.svg"></img> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muazzy&exclude_repo=Todo-App&layout=compact"></img>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muazzy&exclude_repo=Todo-App&layout=compact"></img> -->
 </div>
 <hr>
 <p align="center">   
