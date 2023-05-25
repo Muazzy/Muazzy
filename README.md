@@ -25,7 +25,7 @@
 <p>
 <img align="left" width="20%" src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/left-tourch.gif"></a>
 <img align="right" width="20%" src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/right-tourch.gif"></a>
-<p align="center"> I'm a Bechlors student in the field of Software Engineering currently in 3rd year at MUET, Jamshoro. I'm Passionate about learning new things and love to Design & Develop Apps in Flutter. I am Currently honning my Flutter skills further more & also learning full stack web development alongside with it. </p>
+<p align="center"> I'm a final year Software Engineering student at MUET, Jamshoro, with a passion for learning and a love for designing and developing Flutter apps. I'm currently expanding my Flutter skills and also exploring full stack web development. It's an exciting journey that keeps me motivated to push boundaries in the world of software engineering. </p>
 </p>
 <br>
 <br>
